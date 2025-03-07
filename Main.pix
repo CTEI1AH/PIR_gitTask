@@ -79,13 +79,13 @@
       </AbstractStep>
       <AbstractStep z:Id="i10" i:type="ExecutedStep">
         <Childs />
-        <Id>a0515187-b3bd-4e5d-9a2a-c9a376535717</Id>
+        <Id>2de7b32a-6078-488d-9798-6dce0cbe936b</Id>
         <Parent z:Ref="i2" />
         <PropertyValues>
           <PropertyValue z:Id="i11">
             <PropertyName>FilePath</PropertyName>
             <_dataType>Expression</_dataType>
-            <_expression>@"mult.pix"</_expression>
+            <_expression>@"div.pix"</_expression>
             <_screenShotBase64 i:nil="true" />
             <_value i:nil="true" />
             <_xpathSettings xmlns:d7p1="http://schemas.datacontract.org/2004/07/BR.XPath" i:nil="true" />
@@ -115,7 +115,7 @@
         <EnableStatus>true</EnableStatus>
         <ExceptionHandlingMode>Default</ExceptionHandlingMode>
         <RetryCount>-1</RetryCount>
-        <Text>Умножение</Text>
+        <Text>Деление</Text>
         <_activityFullName>BR.Core.Base.ExecuteScript</_activityFullName>
       </AbstractStep>
     </Childs>
